@@ -1,22 +1,32 @@
 # Things a non Programmer can do
+# একজন নন-প্রোগ্রামার যা যা করতে পারে
 ## Start listening
+## শোনা শুরু করুন
 
 Everything in open source involves other people.
+ওপেন সোর্সের সবকিছু মানুষের সাথে সম্পর্কিত।
 You're looking to join a team, and that means understanding the community and how it works.
+আপনি যখন একটি দল বা টিমের সাথে নিজেকে যুক্ত করছেন, তখন আপনাকে বুঝতে হবে সেই দলটি কিভাবে কাজ করে।
 Walking in to a project and saying "Hi, here's what I think this project should be doing" is usually not taken as a good thing.
+আপনি কোন একটি প্রজেক্টে গিয়ে বললেন, "হ্যালো! আমার মনে হয় এই প্রজেক্টটা এভাবে চলা উচিত।" - এটা ভালভাবে সাধারনত নেয়া হয় না।
 Some projects may welcome that sort of approach, but if the project has been running a while, the chances of that attitude being embraced are small.
+কিছু কিছু প্রজেক্টে এই এপ্রোচ স্বাগতম জানানো হলেও, যদি প্রজেক্ট অনেক পুরোনো হয় তবে এমন উপায়ে আগানোর সম্ভাবনা অনেক কম।
 **Listening is the best way to know what the project needs.**
+**প্রজেক্টে কি প্রয়োজন তা জানার সর্বশ্রেষ্ঠ উপায় শোনা**
 
 1. **Join a mailing list**: For many projects, the mailing list is the main conduit of communication about the development of the project.
+১. **মেইলিং লিস্টে যুক্ত হন**: অনেক প্রজেক্টের জন্য, ডেভেলপমেন্ট এর জন্য মেইলিং লিস্টই প্রধান যোগাযোগের মাধ্যম। 
 On large projects, there are many mailing lists to choose from.
+বড় প্রজেক্টে একাধিক মেইলিং লিস্ট হতে আপনি আপনার প্রয়োজনমাফিক লিস্ট নির্বাচন করতে পারেন। 
 For example, the PostgreSQL project has no fewer than 12 user-oriented lists and six developer lists on its mailing list page.
+উদাহরণ হিসেবে, PostgreSQL প্রজেক্টের ১২টি user-oriented লিস্ট এবং ৬টি ডেভেলপার মেইলিং লিস্ট রয়েছে।
 I suggest you follow the main user-oriented list and the core developer list in which to start listening.
 
-2. **Follow a blog**: Blogs maintained by core developers often give information about what's coming up in future releases,
+3. **Follow a blog**: Blogs maintained by core developers often give information about what's coming up in future releases,
 and what it's taken to get there. A planet site aggregates news and blog entries from many sources related to the project.
 If there is a planet site, like planet.gnome.org or planet.mysql.com, start there. Just search Google for "planet <projectname>."
 
-3. **Join an IRC channel**: Many open source projects have dedicated Internet relay chat (IRC) channels where developers and users hang out to discuss problems and development.
+4. **Join an IRC channel**: Many open source projects have dedicated Internet relay chat (IRC) channels where developers and users hang out to discuss problems and development.
 Check the project's website for the details of what the channel is called and what IRC network it's found on.
 
 **Work with Tickets**  
